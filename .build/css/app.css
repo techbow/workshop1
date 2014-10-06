@@ -1,0 +1,12 @@
+/* line 1, /Users/ziliu/Desktop/workshop/287techbow/css/app */
+body {
+  background: red;
+}
+/* line 4, /Users/ziliu/Desktop/workshop/287techbow/css/app */
+body #wrapper {
+  background: blue;
+}
+/* line 11, /Users/ziliu/Desktop/workshop/287techbow/css/app */
+body #wrapper p {
+  background: yellow, green;
+}

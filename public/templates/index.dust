@@ -1,0 +1,10 @@
+{>"layouts/master" /}
+
+{<title}
+	My First App
+{/title}
+
+{<body}
+    <h1 class="year" data-year="1988">My First awesome</h1>
+    <p>I like coding {name} </p>
+{/body}
